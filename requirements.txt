@@ -1,0 +1,11 @@
+numpy==1.14.5
+pandas==0.23.1
+pandas-highcharts==0.5.2
+jupyter==1.0.0
+python-highcharts
+sklearn==0.0
+scipy==1.1.0
+plotly==2.7.0
+cufflinks==0.13.0
+matplotlib==2.2.2
+seaborn==0.8.1
