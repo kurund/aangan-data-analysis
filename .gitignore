@@ -1,3 +1,6 @@
 # virtualenv
 venv/
 ENV/
+
+# Ignore vscode
+.vscode/
