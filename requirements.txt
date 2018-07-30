@@ -9,3 +9,5 @@ plotly==2.7.0
 cufflinks==0.13.0
 matplotlib==2.2.2
 seaborn==0.8.1
+xlrd==1.1.0
+datascience==0.10.5
